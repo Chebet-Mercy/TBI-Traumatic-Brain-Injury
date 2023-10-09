@@ -1,4 +1,7 @@
 ## TBI-Traumatic-Brain-Injury
+In this project, we will explore the TBI datset.
+![](tbi_summary.png)
+
 > Brain Injury Awareness Month, observed each March, was established 3 decades ago to educate the public about the incidence of brain injury and the needs of persons with brain injuries and their families (1). Traumatic Brain Injury (TBI) is caused by a bump, blow, or jolt to the head, or penetrating head injury which can lead to short- or long-term changes affecting thinking, sensation, language, or emotion.
 - [CDC](https://www.cdc.gov/mmwr/volumes/68/wr/mm6810a1.htm)
 
